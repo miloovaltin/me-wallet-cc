@@ -1,16 +1,16 @@
 {
-"name": "me-wallet-cc",
-"theme": "me wallet cc",
-"version": "8.7.7",
-"description": "me wallet cc ทางเข้าเว็บคาสิโนเว็บตรง ไม่ผ่านเอเย่นต์ รับโบนัสเครดิตฟรี",
-"keywords": [
-"me wallet cc",
-"me wallet cc เครดิตฟรี",
-"me wallet cc ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/me-wallet-cc",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "me-wallet-cc",
+  "theme": "me wallet cc",
+  "version": "8.8.0",
+  "description": "me wallet cc ทางเข้าเว็บคาสิโนเว็บตรง ไม่ผ่านเอเย่นต์ รับโบนัสเครดิตฟรี",
+  "keywords": [
+    "me wallet cc",
+    "me wallet cc เครดิตฟรี",
+    "me wallet cc ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/me-wallet-cc",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
